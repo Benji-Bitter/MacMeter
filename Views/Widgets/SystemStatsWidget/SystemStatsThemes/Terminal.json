@@ -1,0 +1,18 @@
+{
+  "name": "Terminal",
+  "background": "thickMaterial",
+  "font": "Menlo",
+  "primaryColor": "#00FF00",
+  "accentColor": "#FFFFFF",
+  "blurRadius": 5,
+  "shadowOpacity": 0.2,
+  "cornerRadius": 4,
+  "borderWidth": 1,
+  "borderColor": "#00FF00",
+  "textShadow": false,
+  "animationSpeed": 0.5
+}
+
+
+
+
