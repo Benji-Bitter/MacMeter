@@ -1,0 +1,15 @@
+{
+  "name": "DigitalNeon",
+  "background": "thickMaterial",
+  "font": "Menlo",
+  "primaryColor": "#00FF00",
+  "accentColor": "#FF00FF",
+  "blurRadius": 15,
+  "shadowOpacity": 0.8,
+  "cornerRadius": 12,
+  "borderWidth": 1,
+  "borderColor": "#00FF00",
+  "textShadow": true,
+  "animationSpeed": 2.0
+}
+

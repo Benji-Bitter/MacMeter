@@ -1,0 +1,15 @@
+{
+  "name": "Glass",
+  "background": "ultraThinMaterial",
+  "font": "SF Pro Rounded",
+  "primaryColor": "#FFFFFF",
+  "accentColor": "#87CEEB",
+  "blurRadius": 20,
+  "shadowOpacity": 0.4,
+  "cornerRadius": 16,
+  "borderWidth": 0,
+  "borderColor": null,
+  "textShadow": true,
+  "animationSpeed": 1.0
+}
+
